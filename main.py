@@ -8,3 +8,6 @@ def test_add():
 
 def test_add_negative_numbers():
     assert add(-1, -1) == -2
+
+def hello():
+    print("Hello, World!")
